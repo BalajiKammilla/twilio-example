@@ -17,11 +17,17 @@
      Now, you should provide a functionality to chnage/ reset the password
       But, You should vrify the user with his personal information like mobileNumber by sending OTP.
      then the User can Reset with the newPassword.
+
      -> _UserEntity.class_
+
      -> _UserRepositoty.interface_
+
      -> _UserService.class_
+
      -> _UserController.class_
+
      -> _OtpRequest.class_
+
      -> _OtpService.class_
 
      **THIS WILL PROVIDE AN OTP BASED FORGETPASSWORD/CHANGE PASSWORD**
