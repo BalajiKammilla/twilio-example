@@ -7,7 +7,9 @@
 - In this project there are two example where Twilio is used.
 - ## 1. Sending a random Text SMS using twilio
      -> _SmsRequest.class_
+
      -> _SmsService.class_
+
      -> _SmsController.class_
 - ## 2. Sending OTP to Reset User's Password
      For Every Registration you should make the user secure with password and the may forget the password due to not using the account for a long time
